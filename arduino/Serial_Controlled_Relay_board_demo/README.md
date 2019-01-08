@@ -1,0 +1,1 @@
+This version of the controller reads input and output from the Serial monitor to allow for demonstration of the use of the command line interface. 
