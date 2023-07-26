@@ -2,6 +2,7 @@
 ![](https://raw.githubusercontent.com/mtaost/serial-controlled-relay-board/master/images/assembled_board.jpg)
 
 This device is a command line controlled device capable of controlling 8 low current reed relays. This was a commissioned project which was meant to help with testing of computer systems which frequently needed their boot configurations switched through hardware jumpers. The normal procedure involved shutting down the system remotely, then walking over to the lab to remove the system from the chassis and manually setting jumpers which looked something like this: 
+
 ![alt](https://qph.fs.quoracdn.net/main-qimg-f26eee1a1ad8fb1df27e0bfab09a742e.webp)
 
 Doing this not only was time consuming, but also introduced the system to risk of damage from physical wear and tear, and ESD dangers. 
